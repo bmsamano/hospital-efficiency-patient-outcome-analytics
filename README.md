@@ -45,7 +45,7 @@ using machine learning models.
 
 Synthetic MIMIC-IV-inspired dataset:
 
-* 10,000 Patients
+* 10,000+ Patients
 * 25,000+ Admissions
 * Diagnoses
 * Procedures
